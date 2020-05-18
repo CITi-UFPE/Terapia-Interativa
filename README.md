@@ -1,2 +1,2 @@
-# Terapia-Intensiva
-A repository to keep all proofs of concept used necessary for the tech documentation.
+# Terapia Intensiva
+A repository to keep all proofs of concept necessary for the tech documentation.
