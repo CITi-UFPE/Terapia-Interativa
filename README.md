@@ -13,7 +13,7 @@ Rode o arquivo Video_API/index.html. Talvez seja necessário esperar um pouco e 
 Foi feita uma chamada entre duas pessoas, uma em Recife e outra em Petrolina, cerca de 712 km de distância e não houve problemas de comunicação. Além disso, foram adicionados mais de 20 membros numa única chamada e tambm não houve nenhum problema.
 
 ## Solução para jogos embutidos na plataforma
-Para essa POC, a solução encontrada a utilização da [tag HTML <iframe>](https://www.w3schools.com/html/html_iframe.asp).
+Para essa POC, a solução encontrada foi a utilização da [tag HTML <iframe>](https://www.w3schools.com/html/html_iframe.asp).
 
 ### Como rodar a POC
 Rode o arquivo Game_iframe/index.html. Logo será possível visualizar uma tela de carregamento do jogo. Após esperar o carregamento, é só começar a jogar e se divertir.
