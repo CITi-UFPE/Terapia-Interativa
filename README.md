@@ -1,4 +1,4 @@
-# Terapia Intensiva
+# Terapia Interativa
 Repositório para agregar todas as provas de conceito (do inglês, POC) necessárias para a documentação técnica. Para mais informações sobre essa documentação, por favor visite a [página no Notion](https://www.notion.so/citiufpe/Documenta-o-T-cnica-e3546b617c4148c6883c48124cbc847a).
 
 ## API de vídeo chamadas
